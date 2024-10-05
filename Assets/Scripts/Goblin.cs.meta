@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93ab4f7eeccf6de469f5b45677c5315c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - IdleWhere: {instanceID: 0}
+  - Gobhouse: {instanceID: 0}
+  - bag: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
